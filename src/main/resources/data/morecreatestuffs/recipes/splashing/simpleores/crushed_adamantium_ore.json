@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "morecreatestuffs:crushed_adamantium_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "simpleores:adamantium_nugget",
+      "count": 10
+    },
+    {
+      "item": "simpleores:adamantium_nugget",
+      "count": 5,
+      "chance": 0.5
+    }
+  ]
+}
