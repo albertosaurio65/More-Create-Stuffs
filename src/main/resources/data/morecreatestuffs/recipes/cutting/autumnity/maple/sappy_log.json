@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "autumnity:sappy_maple_log"
+    }
+  ],
+  "results": [
+    {
+      "item": "autumnity:stripped_maple_log"
+    }
+  ],
+  "processingTime": 50
+}

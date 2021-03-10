@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "bayou_blues:purple_lily"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:purple_dye",
+      "count": 2
+    },
+    {
+      "item": "minecraft:green_dye",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 50
+}

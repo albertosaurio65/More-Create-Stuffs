@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "simpleores:adamantium_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "morecreatestuffs:crushed_adamantium_ore"
+    }
+  ],
+  "processingTime": 350
+}

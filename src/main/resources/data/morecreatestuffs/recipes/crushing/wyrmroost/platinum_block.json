@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "wyrmroost:platinum_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "morecreatestuffs:crushed_platinum_ore",
+      "count": 5
+    }
+  ],
+  "processingTime": 400
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "abundance:redbud_log"
+    }
+  ],
+  "results": [
+    {
+      "item": "abundance:stripped_redbud_log"
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "bayou_blues:light_blue_lily"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:light_blue_dye",
+      "count": 2
+    },
+    {
+      "item": "minecraft:green_dye",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 50
+}

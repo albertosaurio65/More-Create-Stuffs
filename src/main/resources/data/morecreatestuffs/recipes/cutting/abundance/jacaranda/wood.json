@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "abundance:jacaranda_wood"
+    }
+  ],
+  "results": [
+    {
+      "item": "abundance:stripped_jacaranda_wood"
+    }
+  ],
+  "processingTime": 50
+}

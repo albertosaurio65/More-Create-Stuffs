@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "rats:cheese_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "rats:cheese",
+      "count": 6
+    },
+    {
+      "item": "rats:cheese",
+      "count": 3,
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 500
+}

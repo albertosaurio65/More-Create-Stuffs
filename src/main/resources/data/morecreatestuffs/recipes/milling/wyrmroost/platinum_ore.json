@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "wyrmroost:platinum_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "morecreatestuffs:crushed_platinum_ore"
+    }
+  ],
+  "processingTime": 350
+}
