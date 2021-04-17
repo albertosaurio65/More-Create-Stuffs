@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wyrmroost"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "wyrmroost:red_geode_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "wyrmroost:red_geode",
+      "count": 2
+    },
+    {
+      "item": "wyrmroost:red_geode",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:netherrack",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 500
+}

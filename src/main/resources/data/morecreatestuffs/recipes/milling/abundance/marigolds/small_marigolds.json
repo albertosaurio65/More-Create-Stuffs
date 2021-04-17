@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abundance"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "abundance:small_marigolds"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:orange_dye",
+      "count": 2
+    },
+    {
+      "item": "minecraft:yellow_dye",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 50
+}

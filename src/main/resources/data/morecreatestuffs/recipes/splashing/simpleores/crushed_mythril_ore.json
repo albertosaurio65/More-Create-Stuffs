@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "simpleores"
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "morecreatestuffs:crushed_mythril_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "simpleores:mythril_nugget",
+      "count": 10
+    },
+    {
+      "item": "simpleores:mythril_nugget",
+      "count": 5,
+      "chance": 0.5
+    }
+  ]
+}

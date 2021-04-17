@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "twilightforest:fiery_blood",
+    "twilightforest:fiery_tears",
+    "abundance:lavender_tea",
+    "neapolitan:milk_bottle",
+    "neapolitan:strawberry_banana_smoothie",
+    "neapolitan:adzuki_milkshake",
+    "neapolitan:mint_milkshake",
+    "neapolitan:vanilla_milkshake",
+    "neapolitan:strawberry_milkshake",
+    "neapolitan:chocolate_milkshake",
+    "upgrade_aquatic:mulberry_jam_bottle",
+    "endergetic:puffbug_bottle",
+    "autumnity:sap_bottle",
+    "autumnity:syrup_bottle",
+    "bayou_blues:gooseberry_juice",
+    "bayou_blues:gooseberry_jam"
+  ]
+}

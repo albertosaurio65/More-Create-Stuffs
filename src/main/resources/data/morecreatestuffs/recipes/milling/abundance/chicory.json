@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abundance"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "abundance:chicory"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:light_blue_dye",
+      "count": 2
+    },
+    {
+      "item": "minecraft:blue_dye",
+      "chance": 0.05
+    }
+  ],
+  "processingTime": 50
+}

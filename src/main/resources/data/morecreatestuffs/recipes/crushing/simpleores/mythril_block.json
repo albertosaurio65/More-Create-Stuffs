@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "simpleores"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "simpleores:mythril_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "morecreatestuffs:crushed_mythril_ore",
+      "count": 5
+    }
+  ],
+  "processingTime": 400
+}

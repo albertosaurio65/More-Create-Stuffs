@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abundance"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "abundance:lavender"
+    }
+  ],
+  "results": [
+    {
+      "item": "abundance:lavender_blossoms",
+      "count": 3
+    },
+    {
+      "item": "abundance:lavender_blossoms",
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 50
+}

@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wyrmroost"
+    }
+  ],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "wyrmroost:platinum_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "morecreatestuffs:crushed_platinum_ore"
+    }
+  ],
+  "processingTime": 350
+}

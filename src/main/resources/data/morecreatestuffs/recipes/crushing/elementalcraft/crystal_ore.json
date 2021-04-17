@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "elementalcraft"
+    }
+  ],
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "elementalcraft:crystalore"
+    }
+  ],
+  "results": [
+    {
+      "item": "elementalcraft:inertcrystal",
+      "count": 2
+    },
+    {
+      "item": "elementalcraft:inertcrystal",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 500
+}
