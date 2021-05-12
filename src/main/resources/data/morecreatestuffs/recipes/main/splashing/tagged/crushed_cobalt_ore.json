@@ -1,0 +1,25 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "morecreatestuffs:crushed_cobalt_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "tconstruct:cobalt_nugget",
+      "count": 10
+    },
+    {
+      "item": "tconstruct:cobalt_nugget",
+      "count": 5,
+      "chance": 0.5
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ]
+}

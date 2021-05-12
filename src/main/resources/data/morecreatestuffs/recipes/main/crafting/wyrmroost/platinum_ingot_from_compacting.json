@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "morecreatestuffs:platinum_nugget"
+    }
+  },
+  "result": {
+    "item": "wyrmroost:platinum_ingot"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wyrmroost"
+    }
+  ]
+}

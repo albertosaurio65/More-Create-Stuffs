@@ -1,0 +1,25 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "abundance:lavender_blossoms"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:purple_dye",
+      "count": 2
+    },
+    {
+      "item": "minecraft:purple_dye",
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 100,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abundance"
+    }
+  ]
+}

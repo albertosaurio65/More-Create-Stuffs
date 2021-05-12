@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "item": "abundance:lavender"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "morecreatestuffs:lavender_tea",
+      "amount": 500
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "abundance"
+    }
+  ]
+}
