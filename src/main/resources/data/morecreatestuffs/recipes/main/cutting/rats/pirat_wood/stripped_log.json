@@ -1,0 +1,21 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "rats:stripped_pirat_log"
+    }
+  ],
+  "results": [
+    {
+      "item": "rats:pirat_planks",
+      "count": 5
+    }
+  ],
+  "processingTime": 100,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rats"
+    }
+  ]
+}

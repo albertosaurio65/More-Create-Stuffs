@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "simpleores:adamantium_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "morecreatestuffs:crushed_cobalt_ore",
+      "count": 5
+    }
+  ],
+  "processingTime": 400,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ]
+}
