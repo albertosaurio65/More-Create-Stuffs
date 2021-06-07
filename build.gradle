@@ -21,6 +21,10 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 apply plugin: 'org.spongepowered.mixin'
 
+mixin {
+    add sourceSets.main, "morecreatestuffs.refmap.json"
+}
+
 version = 'mc1.16-b1.4.0'
 group = 'com.jerrylu086.morecreatestuffs'
 archivesBaseName = 'morecreatestuffs'
