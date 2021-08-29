@@ -1,0 +1,20 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "bayou_blues:cypress_wood"
+    }
+  ],
+  "results": [
+    {
+      "item": "bayou_blues:stripped_cypress_wood"
+    }
+  ],
+  "processingTime": 50,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "bayou_blues"
+    }
+  ]
+}

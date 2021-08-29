@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "iceandfire:amethyst_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "iceandfire:amethyst_gem",
+      "count": 2
+    },
+    {
+      "item": "iceandfire:amethyst_gem",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 500,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "iceandfire"
+    }
+  ]
+}

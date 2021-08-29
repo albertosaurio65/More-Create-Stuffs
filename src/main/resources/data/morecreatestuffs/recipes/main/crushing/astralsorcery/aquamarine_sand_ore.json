@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "astralsorcery:aquamarine_sand_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "astralsorcery:aquamarine",
+      "count": 2
+    },
+    {
+      "item": "astralsorcery:aquamarine",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:sand",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 500,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wip_this_recipe_is_not_out_yet"
+    }
+  ]
+}

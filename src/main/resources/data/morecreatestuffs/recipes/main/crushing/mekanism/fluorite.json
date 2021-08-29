@@ -1,0 +1,30 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "mekanism:fluorite_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:fluorite_gem",
+      "count": 6
+    },
+    {
+      "item": "mekanism:fluorite_gem",
+      "count": 4,
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 300,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

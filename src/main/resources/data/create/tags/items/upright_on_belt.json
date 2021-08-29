@@ -1,0 +1,113 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "abundance:lavender_tea",
+      "required": false
+    },
+    {
+      "id": "atmospheric:aloe_gel_bottle",
+      "required": false
+    },
+    {
+      "id": "atmospheric:strawberry_banana_smoothie",
+      "required": false
+    },
+    {
+      "id": "atmospheric:yucca_juice",
+      "required": false
+    },
+    {
+      "id": "autumnity:sap_bottle",
+      "required": false
+    },
+    {
+      "id": "autumnity:syrup_bottle",
+      "required": false
+    },
+    {
+      "id": "bayou_blues:gooseberry_jam",
+      "required": false
+    },
+    {
+      "id": "bayou_blues:gooseberry_juice",
+      "required": false
+    },
+    {
+      "id": "betterbeekeeping:bright_honey_bottle",
+      "required": false
+    },
+    {
+      "id": "betterbeekeeping:cool_honey_bottle",
+      "required": false
+    },
+    {
+      "id": "betterbeekeeping:lively_honey_bottle",
+      "required": false
+    },
+    {
+      "id": "betterbeekeeping:spicy_honey_bottle",
+      "required": false
+    },
+    {
+      "id": "betterbeekeeping:strange_honey_bottle",
+      "required": false
+    },
+    {
+      "id": "betterbeekeeping:warm_honey_bottle",
+      "required": false
+    },
+    {
+      "id": "buzzier_bees:bee_bottle",
+      "required": false
+    },
+    {
+      "id": "buzzier_bees:endermite_bottle",
+      "required": false
+    },
+    {
+      "id": "buzzier_bees:silverfish_bottle",
+      "required": false
+    },
+    {
+      "id": "endergetic:puffbug_bottle",
+      "required": false
+    },
+    {
+      "id": "neapolitan:adzuki_milkshake",
+      "required": false
+    },
+    {
+      "id": "neapolitan:banana_milkshake",
+      "required": false
+    },
+    {
+      "id": "neapolitan:chocolate_milkshake",
+      "required": false
+    },
+    {
+      "id": "neapolitan:milk_bottle",
+      "required": false
+    },
+    {
+      "id": "neapolitan:mint_milkshake",
+      "required": false
+    },
+    {
+      "id": "neapolitan:strawberry_milkshake",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_blood",
+      "required": false
+    },
+    {
+      "id": "twilightforest:fiery_tears",
+      "required": false
+    },
+    {
+      "id": "upgrade_aquatic:mulberry_jam_bottle",
+      "required": false
+    }
+  ]
+}

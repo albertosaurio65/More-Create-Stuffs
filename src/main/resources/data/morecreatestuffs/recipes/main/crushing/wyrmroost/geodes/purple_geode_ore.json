@@ -1,0 +1,29 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "wyrmroost:purple_geode_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "wyrmroost:purple_geode",
+      "count": 2
+    },
+    {
+      "item": "wyrmroost:purple_geode",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:end_stone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 500,
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "wyrmroost"
+    }
+  ]
+}

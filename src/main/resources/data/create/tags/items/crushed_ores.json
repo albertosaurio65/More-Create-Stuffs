@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "morecreatestuffs:crushed_cobalt_ore",
+    "morecreatestuffs:crushed_oratchalcum_ore",
+    "morecreatestuffs:crushed_platinum_ore",
+    "morecreatestuffs:crushed_adamantium_ore",
+    "morecreatestuffs:crushed_mythril_ore"
+  ]
+}

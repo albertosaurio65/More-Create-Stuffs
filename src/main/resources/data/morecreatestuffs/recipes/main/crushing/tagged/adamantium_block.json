@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "simpleores:adamantium_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "morecreatestuffs:crushed_adamantium_ore",
+      "count": 5
+    }
+  ],
+  "processingTime": 400,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:storage_blocks/adamantium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

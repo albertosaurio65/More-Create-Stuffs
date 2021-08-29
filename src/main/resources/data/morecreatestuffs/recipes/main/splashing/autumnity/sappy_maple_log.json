@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "autumnity:sappy_maple_log"
+    }
+  ],
+  "results": [
+    {
+      "item": "autumnity:stripped_maple_log"
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "autumnity:sappy_maple_wood"
+    }
+  ],
+  "results": [
+    {
+      "item": "autumnity:stripped_maple_wood"
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    }
+  ]
+}
