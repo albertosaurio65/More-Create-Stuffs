@@ -1,0 +1,15 @@
+{
+    "itemGroup.morecreatestuffs":  "More Create Stuffs",
+
+    "item.morecreatestuffs.platinum_nugget": "Pepita de platino",
+
+    "item.morecreatestuffs.crushed_adamantium_ore": "Mineral de adamantio triturado",
+    "item.morecreatestuffs.crushed_cobalt_ore": "Mineral de cobalto triturado",
+    "item.morecreatestuffs.crushed_mythril_ore": "Mineral de mitril aplastado",
+    "item.morecreatestuffs.crushed_tungsten_ore": "Mineral de tungsteno triturado",
+
+    "item.morecreatestuffs.crushed_oratchalcum_ore": "Mineral de oratchalcum triturado",
+    "item.morecreatestuffs.crushed_platinum_ore": "Mineral de platino triturado",
+
+    "fluid.morecreatestuffs.lavender_tea": "Té de lavanda"
+}
